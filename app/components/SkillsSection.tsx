@@ -2,7 +2,7 @@
 
 import { motion } from 'framer-motion';
 
-const skills = ['HTML5', 'TailwindCSS', 'JS', 'Python', 'AWS','Java','Spring Framework','Spring Security','Spring Boot','C/C++','Thymeleaf'];
+const skills = ['HTML5', 'TailwindCSS', 'JS', 'Python', 'AWS','Java','Spring Framework','Spring Security','Spring Boot','C/C++','Thymeleaf','Linux', 'OOP Principles', 'SOLID Principles', 'Design Patterns', 'Data Structures and Algorithms' ];
 
 export default function SkillsSection() {
 	return (
