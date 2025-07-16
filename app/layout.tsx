@@ -53,7 +53,7 @@ export const metadata: Metadata = {
 	},
 	twitter: {
 		card: 'summary_large_image',
-		title: '[Your Name] - Software Developer',
+		title: 'Mostafa Abdulazziz - Software Developer',
 		description: 'Passionate software developer creating clean, minimal, and effective digital solutions. Explore my work and development philosophy.',
 		creator: '@MostafaAbdulazziz',
 		images: ['/og-image.jpg'],
